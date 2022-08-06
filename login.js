@@ -1,3 +1,6 @@
+Parse.initialize("zDx5JoQXF6YyDPXg8g784PBKFMrPrflLM5tQYGCt", "FOLdRDE44rQ3kYV4wZoQNvMGlDf9ijC07pA26Xec");
+Parse.serverURL = "https://parseapi.back4app.com/";
+
 
 var usernameElement = document.getElementsByClassName("username")[0]
 var passwordElement = document.getElementsByClassName("password")[0]
