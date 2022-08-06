@@ -1,0 +1,42 @@
+body {
+    background-color: gray;
+    font-family: Helvetica, sans-serif;
+}
+
+
+.title {
+    text-align: center;
+}
+
+
+.login {
+    background-color:rgb(60, 60, 60);
+    text-align: center;
+    font-size: 15px;
+}
+
+
+
+.ee, .bb {
+    transition-duration: 400ms;
+}
+
+
+.submitBtn {
+    background-color: gray; /* Gray */
+    border: 1px solid black;
+    color:  black;
+    display: inline-block;
+    font-size: 13px;
+    transition-duration: 643ms;
+    border-radius: 3px;
+}
+
+.submitBtn:hover {
+    color: azure;
+    background-color: black;
+}
+
+.submitBtn:active {
+    box-shadow: 5px 7px 7px rgba(0, 0, 0, 0.9);
+}
